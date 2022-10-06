@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>models</OriginalElement>
+  <nodes>
+    <node x="624.99" y="0.0">models.User</node>
+    <node x="0.0" y="681.0">models.Appointment</node>
+    <node x="394.99" y="0.0">models.Address</node>
+    <node x="27.24000000000001" y="329.0">models.Customer</node>
+    <node x="8.990000000000009" y="65.5">models.City</node>
+    <node x="189.99" y="32.5">models.Country</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="models.Customer" target="models.Country">
+      <point x="0.0" y="-151.0" />
+      <point x="-46.25" y="107.0" />
+    </edge>
+    <edge source="models.Appointment" target="models.Customer">
+      <point x="-122.25" y="-162.0" />
+      <point x="122.25" y="656.0" />
+      <point x="131.74" y="656.0" />
+      <point x="-104.5" y="151.0" />
+    </edge>
+    <edge source="models.Customer" target="models.City">
+      <point x="-167.20000000000005" y="-151.0" />
+      <point x="69.03999999999996" y="304.0" />
+      <point x="49.24000000000001" y="304.0" />
+      <point x="-40.25" y="74.0" />
+    </edge>
+    <edge source="models.Customer" target="models.Address">
+      <point x="167.2" y="-151.0" />
+      <point x="403.44" y="304.0" />
+      <point x="487.49" y="304.0" />
+      <point x="0.0" y="139.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="192.0" y="136.0" />
+  <SelectedNodes>
+    <node>models.City</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="768.0" maxWidth="1366.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="768.0" prefWidth="1366.0" style="-fx-background-color: #5269a6;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="viewAndController.UpdateCustomers">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#001a4b" height="92.0" layoutX="-1.0" layoutY="-9.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="1366.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+      <Label layoutX="29.0" layoutY="11.0" text="WGU Scheduler App" textFill="#f5f0f0">
+         <font>
+            <Font name="Avenir Roman" size="48.0" />
+         </font>
+      </Label>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#001a4b" height="686.0" layoutX="1303.0" layoutY="85.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="63.0" />
+      <Text fill="#f5f0f0" layoutX="565.0" layoutY="755.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Prolific Studios Design">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Circle fill="#001a4b" layoutX="1275.0" layoutY="109.0" radius="64.0" stroke="#0d1fe4" strokeType="OUTSIDE" strokeWidth="0.0" />
+      <Label layoutX="349.0" layoutY="213.0" text="Update Customers" textFill="#f5f3f3">
+         <font>
+            <Font name="Avenir Roman" size="38.0" />
+         </font>
+      </Label>
+      <TextField fx:id="addressTwo" layoutX="353.0" layoutY="384.0" prefHeight="32.0" prefWidth="300.0" promptText="Address #2" />
+      <Button fx:id="saveBtn" layoutX="353.0" layoutY="575.0" mnemonicParsing="false" onAction="#saveHandler" prefWidth="140.0" text="Save" />
+      <Button fx:id="cancelBtn" layoutX="514.0" layoutY="575.0" mnemonicParsing="false" onAction="#cancelHandler" prefWidth="140.0" text="Cancel" />
+      <TextField fx:id="customerName" layoutX="353.0" layoutY="315.0" prefHeight="32.0" prefWidth="300.0" promptText="Customer Name" />
+      <Label layoutX="354.0" layoutY="287.0" text="Customer Name" textFill="#f5f2f2">
+         <font>
+            <Font name="Avenir Roman" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="349.0" layoutY="428.0" text="Country" textFill="#fffefe">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="706.0" layoutY="287.0" text="Address #1" textFill="#f5f2f2">
+         <font>
+            <Font name="Avenir Roman" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="354.0" layoutY="360.0" text="Address #2" textFill="#f8f5f5">
+         <font>
+            <Font name="Avenir Roman" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="706.0" layoutY="360.0" text="City" textFill="#f8f5f5">
+         <font>
+            <Font name="Avenir Roman" size="16.0" />
+         </font>
+      </Label>
+      <TextField fx:id="addressOne" layoutX="706.0" layoutY="315.0" prefHeight="32.0" prefWidth="300.0" promptText="Address #1" />
+      <TextField fx:id="city" layoutX="706.0" layoutY="384.0" prefHeight="32.0" prefWidth="300.0" promptText="City" />
+      <TextField fx:id="country" layoutX="353.0" layoutY="448.0" prefHeight="32.0" prefWidth="300.0" promptText="Country" />
+      <Label layoutX="353.0" layoutY="496.0" text="Phone" textFill="#f8f5f5">
+         <font>
+            <Font name="Avenir Roman" size="16.0" />
+         </font>
+      </Label>
+      <TextField fx:id="phone" layoutX="354.0" layoutY="520.0" prefHeight="32.0" prefWidth="300.0" promptText="Phone" />
+      <TextField fx:id="postalCode" layoutX="706.0" layoutY="448.0" prefHeight="32.0" prefWidth="300.0" promptText="Postal Code" />
+      <Label layoutX="706.0" layoutY="428.0" text="Postal Code" textFill="#fffefe">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

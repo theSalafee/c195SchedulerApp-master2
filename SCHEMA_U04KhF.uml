@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>1b23ee28-e6b4-40d1-a1aa-3525c779fb14.SCHEMA:U04KhF</OriginalElement>
+  <nodes>
+    <node x="216.0" y="219.0">1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.city</node>
+    <node x="108.0" y="1030.0">1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.appointment</node>
+    <node x="0.0" y="767.0">1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.user</node>
+    <node x="210.0" y="767.0">1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.customer</node>
+    <node x="216.0" y="460.0">1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.address</node>
+    <node x="216.0" y="0.0">1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.country</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.appointment" target="1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.customer">
+      <point x="47.5" y="-183.5" />
+      <point x="250.5" y="1005.0" />
+      <point x="311.0" y="1005.0" />
+      <point x="0.0" y="106.5" />
+    </edge>
+    <edge source="1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.appointment" target="1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.user">
+      <point x="-47.5" y="-183.5" />
+      <point x="155.5" y="1005.0" />
+      <point x="95.0" y="1005.0" />
+      <point x="0.0" y="106.5" />
+    </edge>
+    <edge source="1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.customer" target="1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.address">
+      <point x="0.0" y="-106.5" />
+      <point x="0.0" y="128.5" />
+    </edge>
+    <edge source="1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.address" target="1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.city">
+      <point x="0.0" y="-128.5" />
+      <point x="0.0" y="95.5" />
+    </edge>
+    <edge source="1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.city" target="1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.country">
+      <point x="0.0" y="-95.5" />
+      <point x="0.0" y="84.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6182074805928017" x="206.0" y="698.5" />
+  <SelectedNodes>
+    <node>1b23ee28-e6b4-40d1-a1aa-3525c779fb14.TABLE:U04KhF.country</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Virtual foreign keys</Category>
+    <Category>Key columns</Category>
+  </Categories>
+</Diagram>
+

@@ -1,0 +1,1720 @@
+Apr 07, 2020 5:37:33 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:37:33 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:37:33 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:37:33 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:37:33 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:37:34 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:37:34 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:37:34 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:37:34 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:37:34 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:37:34 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:37:34 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:37:35 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:37:35 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:51:56 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:51:56 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:51:56 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:51:56 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:51:56 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:51:56 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:51:57 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:51:57 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:51:57 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:51:57 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:51:57 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:51:57 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:51:57 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:51:57 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:52:33 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:52:33 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:52:33 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:52:33 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:52:33 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:52:33 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:52:34 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:52:34 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:52:34 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:52:34 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:52:34 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:52:34 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:52:34 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:52:34 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:53:36 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:53:36 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:53:36 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:53:36 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:53:36 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:53:37 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:53:37 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:53:37 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:53:37 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:53:37 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:53:37 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:53:37 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:53:38 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 5:53:38 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:48:25 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:48:26 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:48:26 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:48:26 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:48:26 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:48:26 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:48:26 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:48:26 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:48:26 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:48:27 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:48:27 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:48:27 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:48:27 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:48:27 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:49:36 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:49:36 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:49:36 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:49:36 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:49:36 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:49:36 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:49:37 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:49:37 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:49:37 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:49:37 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:49:37 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:49:37 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:49:37 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:49:38 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:56:00 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:56:00 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:56:01 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:56:01 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:56:01 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:56:01 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:56:01 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:56:01 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:56:01 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:56:02 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:56:02 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:56:02 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:56:02 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 07, 2020 7:56:02 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:07:21 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:07:22 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:07:22 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:07:23 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:07:24 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:07:24 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:07:25 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:07:26 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:07:27 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:07:27 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:07:28 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:07:29 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:07:29 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:07:30 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:11:23 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:11:23 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:11:23 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:11:24 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:11:24 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:11:24 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:11:24 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:11:25 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:11:25 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:11:25 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:11:26 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:11:26 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:11:26 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:11:26 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:23:07 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:23:08 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:23:09 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:23:10 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:23:10 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:23:11 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:23:12 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:23:12 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:23:13 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:23:14 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:23:14 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:23:15 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:23:16 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:23:17 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:26:57 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:33:04 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:33:26 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:34:01 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: naasir logged in.
+Apr 08, 2020 8:54:22 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:54:30 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:56:01 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:57:27 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: naasir logged in.
+Apr 08, 2020 5:31:37 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 5:38:23 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 5:39:33 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 5:39:33 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 6:19:18 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 6:19:18 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 6:34:05 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 6:34:06 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:19:06 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 8:19:06 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 9:34:49 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 9:34:50 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 9:35:40 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: blah logged in.
+Apr 08, 2020 9:35:40 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: blah logged in.
+Apr 08, 2020 9:49:33 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 9:49:33 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 9:54:04 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 9:54:04 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 9:55:43 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 9:55:43 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 9:58:00 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 9:58:00 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 9:58:49 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 9:58:49 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 10:02:02 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 08, 2020 10:02:02 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 09, 2020 4:38:58 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 09, 2020 4:38:58 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 09, 2020 7:59:40 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 09, 2020 7:59:41 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 09, 2020 8:06:39 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 09, 2020 8:06:40 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 09, 2020 8:38:49 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 09, 2020 8:38:50 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 13, 2020 11:57:58 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 13, 2020 11:57:58 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:05:13 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:05:13 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:08:35 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:08:36 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:15:17 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test  logged in.
+Apr 14, 2020 5:15:18 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test  logged in.
+Apr 14, 2020 5:17:25 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:17:25 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:18:06 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:18:07 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:18:44 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:18:44 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:33:38 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:33:38 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:40:49 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:40:49 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:46:42 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:46:42 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:56:47 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:56:47 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:57:27 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 5:57:27 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 6:00:49 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 6:00:49 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 6:03:47 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 6:03:47 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 6:04:27 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 6:04:27 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 6:05:10 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 6:05:10 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 6:05:34 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 14, 2020 6:05:35 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 15, 2020 6:38:43 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 15, 2020 6:38:43 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 15, 2020 6:39:23 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 15, 2020 6:39:23 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 15, 2020 6:39:55 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 15, 2020 6:39:55 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 15, 2020 6:41:10 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 15, 2020 6:41:10 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 15, 2020 6:42:40 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 15, 2020 6:42:40 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 27, 2020 7:29:17 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 27, 2020 7:29:17 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 27, 2020 7:41:23 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 27, 2020 7:41:23 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 27, 2020 7:49:48 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 27, 2020 7:49:48 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 27, 2020 7:50:22 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 27, 2020 7:50:22 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 27, 2020 7:51:20 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 27, 2020 7:51:20 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 27, 2020 7:53:29 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 27, 2020 7:53:29 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 27, 2020 7:54:51 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 27, 2020 7:54:51 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:33:24 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:33:24 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:35:04 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:35:05 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:36:01 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:36:01 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:37:34 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:37:34 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:53:20 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:53:20 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:56:07 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:56:07 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:57:58 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:57:59 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:58:28 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:58:29 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:58:54 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:58:54 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:59:20 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:59:20 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 6:00:02 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 6:00:02 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 6:00:29 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 6:00:29 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 6:01:34 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 6:01:34 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 6:02:15 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 6:02:15 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 6:02:47 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 6:02:47 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:04:05 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:04:05 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:18:07 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:18:07 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:19:18 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:19:18 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:25:12 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:25:13 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:27:16 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:27:16 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:28:25 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:28:25 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:33:15 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:33:16 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:35:30 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 5:35:30 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 6:29:36 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+Apr 28, 2020 6:29:36 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 02, 2020 12:36:51 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 02, 2020 12:36:51 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 02, 2020 12:51:42 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 02, 2020 12:51:42 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 02, 2020 12:52:11 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 02, 2020 12:52:11 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 02, 2020 12:56:06 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 02, 2020 12:56:06 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 03, 2020 5:35:20 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 03, 2020 5:35:21 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 03, 2020 5:44:48 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 03, 2020 5:44:48 AM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 04, 2020 6:33:40 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 04, 2020 6:33:40 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 04, 2020 6:39:05 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 04, 2020 6:39:05 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 05, 2020 5:34:38 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 05, 2020 5:34:38 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 05, 2020 5:39:11 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 05, 2020 5:39:12 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 05, 2020 5:42:12 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 05, 2020 5:42:12 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 05, 2020 5:44:18 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 05, 2020 5:44:19 PM viewAndController.Login lambda$loginHandler$0
+INFO: User: test logged in.
+May 05, 2020 6:03:55 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 05, 2020 6:13:35 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 05, 2020 6:14:34 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 05, 2020 6:15:37 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 05, 2020 6:18:20 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 05, 2020 6:20:05 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 8:17:05 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 8:39:01 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 8:39:40 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 8:40:12 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 8:42:01 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 8:42:48 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 8:59:38 AM viewAndController.Login loginHandler
+WARNING: Invalid credentials entered! User: test
+May 10, 2020 8:59:38 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 9:01:26 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 9:03:52 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 9:07:34 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 9:08:16 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 10:27:47 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 10:32:14 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 10:35:07 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 10:38:46 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 10:41:50 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 10:43:08 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 10:49:15 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 10, 2020 2:43:00 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 5:00:46 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 5:33:16 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 5:35:10 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 5:39:01 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 5:47:21 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 5:53:01 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 5:56:21 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 6:02:21 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 6:03:54 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 6:05:29 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 6:06:15 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 6:07:22 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 6:10:32 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 9:16:48 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 9:17:24 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 9:20:33 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 9:21:21 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 9:24:55 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 9:40:54 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 9:43:21 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 9:44:04 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 9:56:47 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 9:58:06 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 10:00:30 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 12, 2020 10:03:54 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 17, 2020 10:02:23 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 17, 2020 10:05:56 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 17, 2020 10:10:13 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 17, 2020 10:12:07 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 17, 2020 10:12:47 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 17, 2020 10:14:33 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 17, 2020 10:34:12 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 17, 2020 10:39:57 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 17, 2020 10:48:03 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:00:23 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:04:37 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:05:29 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:06:08 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:14:57 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:18:08 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:19:30 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:25:41 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:26:27 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:32:13 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:37:29 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:38:51 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:39:16 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:42:03 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:43:02 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:51:55 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:54:34 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 19, 2020 8:57:09 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 10:21:23 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 10:23:37 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 10:24:29 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 10:51:36 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 10:56:22 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 10:57:40 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 10:59:07 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 11:06:02 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 11:08:22 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 11:09:31 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 11:11:36 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 11:12:28 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 11:13:13 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 11:17:39 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 11:19:46 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 11:24:18 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 11:28:25 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 11:33:09 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 25, 2020 11:34:06 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 27, 2020 4:29:37 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 27, 2020 5:10:20 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 27, 2020 5:41:48 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 27, 2020 5:43:28 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 27, 2020 5:56:09 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 27, 2020 5:57:23 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 27, 2020 5:58:27 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 27, 2020 8:32:16 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 27, 2020 8:36:55 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 27, 2020 8:37:40 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 27, 2020 8:39:13 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 27, 2020 8:40:57 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+May 31, 2020 9:23:21 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 02, 2020 7:24:26 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 03, 2020 5:17:49 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 03, 2020 5:35:18 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 09, 2020 5:43:16 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 09, 2020 5:44:59 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 09, 2020 5:45:58 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 09, 2020 5:59:55 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 09, 2020 6:02:14 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 09, 2020 6:03:17 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 09, 2020 6:04:35 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 09, 2020 6:05:23 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 09, 2020 6:05:40 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 09, 2020 6:06:30 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 10, 2020 7:52:30 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 10, 2020 7:54:36 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 10, 2020 7:55:02 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 10:17:14 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 10:18:22 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 10:34:49 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 11:03:14 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 11:06:11 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 2:23:21 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 2:26:43 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 2:36:50 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 9:13:35 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 9:14:42 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 9:29:58 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 9:31:18 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 9:32:07 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 9:34:20 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 9:37:53 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 9:39:44 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 9:41:49 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 9:46:57 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 9:49:37 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 9:50:50 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 14, 2020 10:00:05 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 15, 2020 6:51:00 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 15, 2020 7:09:31 AM viewAndController.Login loginHandler
+WARNING: Invalid credentials entered! User: kamal
+Jun 15, 2020 7:09:31 AM viewAndController.Login loginHandler
+INFO: User: kamal logged in.
+Jun 15, 2020 8:09:06 AM viewAndController.Login loginHandler
+WARNING: Invalid credentials entered! User: jkl
+Jun 15, 2020 8:09:06 AM viewAndController.Login loginHandler
+INFO: User: jkl logged in.
+Jun 15, 2020 8:14:49 AM viewAndController.Login loginHandler
+WARNING: Invalid credentials entered! User: lkj
+Jun 15, 2020 8:18:37 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 15, 2020 8:20:39 AM viewAndController.Login loginHandler
+WARNING: Invalid credentials entered! User: lkj
+Jun 15, 2020 8:20:49 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 15, 2020 5:44:11 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 15, 2020 7:24:53 PM viewAndController.Login loginHandler
+WARNING: Invalid credentials entered! User: kamal
+Jun 15, 2020 8:37:14 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+jun 15, 2020 8:39:56 P.M. viewAndController.Login loginHandler
+INFORMACIÓN: User: test logged in.
+Jun 15, 2020 8:41:59 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 16, 2020 4:54:20 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+jun 16, 2020 5:18:59 P.M. viewAndController.Login loginHandler
+INFORMACIÓN: User: test logged in.
+jun 16, 2020 5:19:34 P.M. viewAndController.Login loginHandler
+ADVERTENCIA: Invalid credentials entered! User: kam
+jun 16, 2020 5:19:57 P.M. viewAndController.Login loginHandler
+INFORMACIÓN: User: test logged in.
+jun 16, 2020 5:20:49 P.M. viewAndController.Login loginHandler
+INFORMACIÓN: User: test logged in.
+jun 16, 2020 5:32:12 P.M. viewAndController.Login loginHandler
+INFORMACIÓN: User: test logged in.
+jun 16, 2020 5:41:16 P.M. viewAndController.Login loginHandler
+INFORMACIÓN: User: test logged in.
+jun 16, 2020 5:48:47 P.M. viewAndController.Login loginHandler
+INFORMACIÓN: User: test logged in.
+jun 16, 2020 5:49:59 P.M. viewAndController.Login loginHandler
+INFORMACIÓN: User: test logged in.
+Jun 16, 2020 8:49:18 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 16, 2020 8:56:22 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 16, 2020 9:04:08 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 16, 2020 9:05:28 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 16, 2020 9:09:18 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 16, 2020 9:12:39 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 17, 2020 7:23:43 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 17, 2020 7:31:19 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 17, 2020 7:41:14 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 17, 2020 7:41:44 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 19, 2020 9:15:10 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 19, 2020 9:16:39 PM viewAndController.Login loginHandler
+WARNING: Invalid credentials entered! User: lkj
+Jun 19, 2020 9:16:49 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 20, 2020 10:18:02 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 8:52:51 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 8:54:09 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:15:16 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:16:47 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:18:30 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:26:10 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:35:13 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:39:07 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:40:24 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:41:43 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:45:03 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:45:54 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:47:27 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:47:53 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:52:58 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:56:43 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:01:57 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:08:46 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:28:08 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:30:51 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:31:45 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:34:51 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:40:05 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:42:08 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:43:10 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:43:52 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:47:20 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:52:09 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:54:59 AM viewAndController.Login loginHandler
+WARNING: Invalid credentials entered! User: l;ij
+Jun 21, 2020 10:57:13 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 11:01:55 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 11:03:43 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 11:05:10 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 11:12:04 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:49:29 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:56:47 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 9:59:52 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:03:26 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:05:03 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:06:51 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:10:40 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:19:59 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:23:00 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 21, 2020 10:30:34 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 4:31:13 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 4:37:47 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 4:51:11 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 4:52:29 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 4:54:42 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 4:55:44 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 4:59:25 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 5:04:37 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 5:10:36 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 5:16:30 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 5:22:12 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 6:32:58 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 7:53:14 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 7:56:11 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 7:57:02 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 7:58:53 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 22, 2020 8:11:47 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 4:39:02 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 4:42:43 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 4:49:02 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 5:45:45 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 5:48:41 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 5:55:20 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 5:57:40 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 8:36:45 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 8:47:03 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 8:47:56 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 8:49:23 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 8:55:09 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 8:58:31 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 9:01:37 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 9:03:25 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 9:06:38 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 9:08:32 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 23, 2020 9:10:37 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 5:03:25 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 5:14:30 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 5:16:20 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 5:43:12 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 6:01:53 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 6:04:13 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 6:05:22 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 6:06:42 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 6:22:32 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 6:25:00 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 7:02:38 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 7:51:29 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 7:53:56 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 7:55:46 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 7:57:09 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 8:00:16 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 8:01:43 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 8:22:40 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 8:24:40 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 8:26:31 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 8:27:52 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 8:33:29 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 24, 2020 9:36:57 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 25, 2020 6:44:09 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 25, 2020 6:58:21 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 25, 2020 7:12:02 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 25, 2020 7:14:11 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 25, 2020 7:15:42 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 25, 2020 7:17:07 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 25, 2020 7:22:14 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 25, 2020 7:23:38 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 25, 2020 7:27:09 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 25, 2020 7:28:58 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 25, 2020 7:33:08 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 25, 2020 7:34:06 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 25, 2020 5:03:42 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 26, 2020 3:29:22 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 26, 2020 5:18:41 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 26, 2020 5:19:10 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 26, 2020 5:20:12 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 26, 2020 6:39:00 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 26, 2020 6:40:04 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 27, 2020 2:27:18 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 27, 2020 2:28:02 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 27, 2020 2:36:22 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 27, 2020 2:47:29 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 27, 2020 2:53:09 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 27, 2020 2:56:04 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 27, 2020 2:56:52 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 27, 2020 3:00:26 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 27, 2020 3:05:07 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 27, 2020 3:11:19 PM viewAndController.Login loginHandler
+WARNING: Invalid credentials entered! User: 
+jun 27, 2020 3:12:43 P.M. viewAndController.Login loginHandler
+ADVERTENCIA: Invalid credentials entered! User: 
+jun 27, 2020 3:16:07 P.M. viewAndController.Login loginHandler
+INFORMACIÓN: User: test logged in.
+jun 27, 2020 3:19:49 P.M. viewAndController.Login loginHandler
+INFORMACIÓN: User: test logged in.
+jun 27, 2020 3:52:17 P.M. viewAndController.Login loginHandler
+INFORMACIÓN: User: test logged in.
+jun 27, 2020 3:57:44 P.M. viewAndController.Login loginHandler
+INFORMACIÓN: User: test logged in.
+jun 27, 2020 4:15:43 P.M. viewAndController.Login loginHandler
+INFORMACIÓN: User: test logged in.
+Jun 28, 2020 6:55:52 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 7:00:37 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 7:21:14 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 7:23:40 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:47:17 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:51:11 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 9:39:58 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 9:42:45 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 10:10:32 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 10:13:22 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 10:14:26 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 10:19:07 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 10:45:41 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 11:04:23 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 11:05:25 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 2:18:27 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 7:54:12 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 7:56:30 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:02:54 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:07:05 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:11:05 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:13:40 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:16:39 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:18:45 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:20:47 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:22:48 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:24:40 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:27:22 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:30:05 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:30:49 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:31:27 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:33:48 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:36:26 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:42:40 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:44:34 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:48:35 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:51:02 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:52:55 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:54:55 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 8:58:12 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 9:08:43 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 9:17:32 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 9:22:17 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 9:25:27 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 9:30:38 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 28, 2020 9:33:54 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 12:25:02 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 4:53:07 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 5:01:08 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 5:08:29 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 5:12:50 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 5:16:12 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 5:17:32 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 5:19:25 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 5:25:57 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 5:29:31 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 5:30:54 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 5:31:22 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 5:41:39 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 6:53:01 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 6:57:04 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 7:25:38 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 9:19:16 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 29, 2020 9:41:38 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 10:06:46 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 11:23:32 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 11:25:21 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 11:27:10 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 11:31:46 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 11:33:04 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 11:34:10 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 11:35:44 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 12:08:39 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 12:23:59 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 1:14:22 PM viewAndController.Login loginHandler
+WARNING: Invalid credentials entered! User: test
+Jun 30, 2020 1:14:26 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 2:15:46 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 2:16:44 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 2:34:44 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 2:37:04 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 2:38:25 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 3:13:46 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 3:15:31 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 3:30:56 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 3:35:40 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 3:42:33 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 3:44:52 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 3:47:45 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 3:49:47 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 3:51:01 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 3:57:57 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 3:59:48 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 4:03:46 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 4:18:07 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 4:19:22 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 4:23:44 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 4:28:40 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 4:48:23 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 4:50:51 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 4:52:02 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 4:53:00 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 4:54:34 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 4:55:50 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 4:57:44 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 4:59:13 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 5:01:24 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 5:04:53 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 5:20:16 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 5:32:58 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 5:45:45 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 5:52:06 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 5:53:56 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 5:57:35 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 5:59:49 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 6:03:29 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 6:04:26 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 6:05:56 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 6:10:19 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 6:15:29 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 6:50:01 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 6:52:33 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 6:56:56 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 6:57:34 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 6:59:32 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:02:01 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:03:05 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:04:22 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:10:08 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:15:25 PM viewAndController.Login loginHandler
+WARNING: Invalid credentials entered! User: text
+Jun 30, 2020 7:15:32 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:16:45 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:19:38 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:24:30 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:27:05 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:28:26 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:33:24 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:35:16 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:38:23 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:44:35 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:46:47 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:51:30 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:52:54 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 7:54:29 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 8:03:12 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 8:05:18 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 8:07:29 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 8:13:11 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 8:16:24 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 8:24:14 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 8:25:43 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 8:27:07 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 8:30:08 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 8:34:38 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 8:38:40 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 8:44:36 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jun 30, 2020 8:46:47 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 7:37:50 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 7:51:28 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 7:54:41 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 7:56:44 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 8:01:23 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 8:12:47 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 8:17:51 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 8:20:09 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 8:24:41 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 4:23:02 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 4:36:37 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 4:41:58 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 4:44:09 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 4:45:09 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 4:47:17 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 4:53:45 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 4:55:54 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 4:58:10 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 5:00:02 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 5:04:23 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 5:10:12 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 01, 2020 6:26:14 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 02, 2020 1:47:53 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 03, 2020 10:47:26 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 03, 2020 11:17:32 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 03, 2020 11:20:04 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 03, 2020 11:23:45 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 03, 2020 11:26:20 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 05, 2020 8:18:43 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 05, 2020 8:40:05 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 05, 2020 8:45:20 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 05, 2020 8:55:18 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 05, 2020 8:56:46 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 05, 2020 9:00:28 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 05, 2020 9:05:11 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 05, 2020 9:09:11 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 05, 2020 9:11:16 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 05, 2020 9:13:53 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 05, 2020 9:18:31 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 05, 2020 9:24:15 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 05, 2020 9:32:31 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 08, 2020 4:16:12 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 08, 2020 4:19:03 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 08, 2020 4:20:47 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 08, 2020 5:36:49 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 08, 2020 5:39:50 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 08, 2020 5:43:13 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 12, 2020 10:12:13 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 12, 2020 10:17:45 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Jul 12, 2020 10:19:42 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Oct 15, 2020 2:29:47 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Oct 15, 2020 3:00:38 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Aug 27, 2022 9:51:24 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Aug 27, 2022 10:00:23 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Aug 27, 2022 10:15:47 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Aug 29, 2022 12:00:46 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Sep 03, 2022 1:07:23 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Sep 21, 2022 12:43:05 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Sep 21, 2022 1:22:03 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Sep 21, 2022 1:24:03 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Sep 21, 2022 1:25:45 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Sep 21, 2022 1:28:56 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Sep 29, 2022 10:01:53 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Sep 29, 2022 10:59:35 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Sep 29, 2022 11:00:58 AM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Oct 02, 2022 5:00:39 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Oct 02, 2022 5:03:04 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Oct 02, 2022 5:05:50 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Oct 02, 2022 5:07:06 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Oct 02, 2022 5:09:05 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
+Oct 02, 2022 5:12:00 PM viewAndController.Login loginHandler
+INFO: User: test logged in.
